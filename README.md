@@ -1,4 +1,36 @@
-## Hi there 👋
+## Mechatronics Engineer 🤓 | Control Specialist | Data Science & AI Specialist 🧠| Robotics Engineer 🤖 | IoT 🕹| Embedded System Developer | PLC | SCADA | Microcontrollers 💻
+![ahmad996ibrahim](https://github-readme-stats.vercel.app/api?username=ahmad996ibrahim&show_icons=true&theme=dark)
+![ahmad996ibrahim](https://github-readme-stats.vercel.app/api/top-langs?username=ahmad996ibrahim&show_icons=true&locale=en&layout=compact)
+
+## Connect with me:
+[![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/ahmad996ibrahim/)
+[![Facebook](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg)](https://www.facebook.com/Ahmad996Ibrahim/)
+
+## Languages and Tools:
+
+<p align="left" dir="auto">
+  <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://www.arduino.cc/" rel="nofollow"> <img src="https://camo.githubusercontent.com/6fcd1c570f8a902233682fea6938ec8e8a3727080ad41312ce5a39004de43087/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" alt="arduino" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="max-width: 100%;"> </a>
+  <a href="https://www.w3schools.com/cpp/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
+  <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>
+  <a href="https://opencv.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/de6ed745c22f7f8b8f8ef981a7ea194e4cb5d106e84a272fe283cae357c9abc5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6f70656e63762f6f70656e63762d69636f6e2e737667" alt="opencv" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="max-width: 100%;"> </a>
+ </p>
+<!--
+**ahmad996ibrahim/ahmad996ibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 
 <!--
 **ahmad996ibrahim/ahmad996ibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
