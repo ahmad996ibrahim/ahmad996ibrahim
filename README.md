@@ -8,7 +8,11 @@
 
 ## Languages and Tools:
 
-<p align="center"><a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a> &nbsp; &nbsp; <a href="https://www.arduino.cc/" rel="nofollow"><img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" alt="arduino" width="40" height="40"></a> &nbsp; &nbsp; <a href="https://www.w3schools.com/cpp/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"></a> &nbsp; &nbsp; <a href="https://git-scm.com/" rel="nofollow"><img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="git" width="40" height="40"></a> &nbsp; &nbsp; <a href="https://www.linux.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"></a> &nbsp; &nbsp; <a href="https://opencv.org/" rel="nofollow"><img src="https://opencv.org/wp-content/uploads/2022/07/OpenCV-logo.png" alt="opencv" width="40" height="40"></a></p>
+<a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a> &nbsp; &nbsp;
+<a href="https://www.arduino.cc/" rel="nofollow"><img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" alt="arduino" width="40" height="40"></a> &nbsp; &nbsp;
+<a href="https://www.w3schools.com/cpp/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"></a> &nbsp; &nbsp; <a href="https://git-scm.com/" rel="nofollow"><img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="git" width="40" height="40"></a> &nbsp; &nbsp;
+<a href="https://www.linux.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"></a> &nbsp; &nbsp;
+<a href="https://opencv.org/" rel="nofollow"><img src="https://opencv.org/wp-content/uploads/2022/07/OpenCV-logo.png" alt="opencv" width="40" height="40"></a>
 <!--
 **ahmad996ibrahim/ahmad996ibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
