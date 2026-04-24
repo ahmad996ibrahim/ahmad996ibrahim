@@ -8,6 +8,8 @@
 
 ## Languages and Tools:
 
+[![LinkedIn](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg)](https://www.linkedin.com/in/ahmad996ibrahim/)
+[![Facebook](https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg)](https://www.facebook.com/Ahmad996Ibrahim/)
 <a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a> &nbsp; &nbsp;
 <a href="https://www.arduino.cc/" rel="nofollow"><img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" alt="arduino" width="40" height="40"></a> &nbsp; &nbsp;
 <a href="https://www.w3schools.com/cpp/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"></a> &nbsp; &nbsp; <a href="https://git-scm.com/" rel="nofollow"><img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="git" width="40" height="40"></a> &nbsp; &nbsp;
