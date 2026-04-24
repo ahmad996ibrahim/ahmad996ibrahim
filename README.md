@@ -8,14 +8,26 @@
 
 ## Languages and Tools:
 
-<p align="left" dir="auto">
-  <a href="https://www.python.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://www.arduino.cc/" rel="nofollow"> <img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" alt="arduino" width="40" height="40" data-canonical-src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="max-width: 100%;"> </a>
-  <a href="https://www.w3schools.com/cpp/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://git-scm.com/" rel="nofollow"> <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="git" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="max-width: 100%;"> </a>
-  <a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"> </a>
-  <a href="https://opencv.org/" rel="nofollow"> <img src="https://opencv.org/wp-content/uploads/2022/07/OpenCV-logo.png" alt="opencv" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="max-width: 100%;"> </a>
- </p>
+<div style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://www.python.org" rel="nofollow"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"> 
+  </a>
+  <a href="https://www.arduino.cc/" rel="nofollow"> 
+    <img src="https://img.icons8.com/?size=100&id=13444&format=png&color=000000" alt="arduino" width="40" height="40"> 
+  </a>
+  <a href="https://www.w3schools.com/cpp/" rel="nofollow"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"> 
+  </a>
+  <a href="https://git-scm.com/" rel="nofollow"> 
+    <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="git" width="40" height="40"> 
+  </a>
+  <a href="https://www.linux.org/" rel="nofollow"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"> 
+  </a>
+  <a href="https://opencv.org/" rel="nofollow"> 
+    <img src="https://opencv.org/wp-content/uploads/2022/07/OpenCV-logo.png" alt="opencv" width="40" height="40"> 
+  </a>
+</div>
 <!--
 **ahmad996ibrahim/ahmad996ibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
