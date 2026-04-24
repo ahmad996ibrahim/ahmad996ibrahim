@@ -8,8 +8,7 @@
 
 ## Languages and Tools:
 
-[![python]([https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg))](www.python.org)
-[![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
+[![python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg))](www.python.org)
 <a href="https://www.python.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a> &nbsp; &nbsp;
 <a href="https://git-scm.com/" rel="nofollow"><img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" alt="git" width="40" height="40"></a> &nbsp; &nbsp;
 <a href="https://www.linux.org/" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"></a> &nbsp; &nbsp;
